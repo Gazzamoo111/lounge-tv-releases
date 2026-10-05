@@ -1,0 +1,9 @@
+{
+  "version": "1.0.2",
+  "versionCode": 3,
+  "apkUrl": "https://github.com/Gazzamoo111/lounge-tv-releases/releases/download/v1.0.2-updater-test/LoungeTV-update-test.apk",
+  "sha256": "a1a2b4159ce760ef6c1309eb74cd9707e77b6d159ac0cced6f0205a2f4c43235",
+  "signingCertificateSha256": "9ca36bfd85161365069849b1bff3f4fbc75728dca1ef5cf95f49f724de222106",
+  "mandatory": false,
+  "releaseNotes": "Updater system test."
+}
