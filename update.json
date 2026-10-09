@@ -1,9 +1,9 @@
 {
-  "version": "1.0.2",
-  "versionCode": 6,
+  "version": "1.0.72",
+  "versionCode": 77,
   "apkUrl": "https://github.com/Gazzamoo111/lounge-tv-releases/releases/latest/download/LoungeTV.apk",
-  "sha256": "0fe64a1138d66ac2b014c466a69cfd21b33fab4be27837a6d7319044541e7c30",
-  "signingCertificateSha256": "9ca36bfd85161365069849b1bff3f4fbc75728dca1ef5cf95f49f724de222106",
+  "sha256": "dadccf8b75d38eb047a61500a38646c65851ca12174c8d830ec524fa09a9ef57",
+  "signingCertificateSha256": "bfebdfc29202a15dc1b07087221f16af69a2a1106827831716fce811c74d8d61",
   "mandatory": false,
-  "releaseNotes": "Faster Fire TV navigation and production stability improvements."
+  "releaseNotes": "Navigation responsiveness improvements on Fire TV and Android TV. Reduced redundant focus and layout work; no changes to the app design, account activation or video playback."
 }
