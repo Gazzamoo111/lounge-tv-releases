@@ -1,9 +1,9 @@
 {
-  "version": "1.1.0",
-  "versionCode": 125,
-  "apkUrl": "https://github.com/Gazzamoo111/lounge-tv-releases/releases/latest/download/LoungeTV.apk",
-  "sha256": "b17d67998e0a716754954d0ccfc8d0c819ef1db64365b15ce9d0db0998d1a3c3",
+  "version": "1.1.1",
+  "versionCode": 126,
+  "apkUrl": "https://github.com/Gazzamoo111/lounge-tv-releases/releases/download/v1.1.1/LoungeTV.apk",
+  "sha256": "2d35141f28e722aa9d61f4b89297266135d4b974d82be8a8139e92fc6666f5fa",
   "signingCertificateSha256": "bfebdfc29202a15dc1b07087221f16af69a2a1106827831716fce811c74d8d61",
   "mandatory": false,
-  "releaseNotes": "Lounge TV 1.1.0: approved 1,074-channel catalogue, Sports collections, streamlined On-Demand and improved navigation. Some EPG gaps remain."
+  "releaseNotes": "Lounge TV 1.1.1: restores the approved 1,074-channel BEST catalogue with provider-session validation and safe catalogue caching. Sports, Movies, Series, My Lounge, activation and playback are preserved."
 }
