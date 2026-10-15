@@ -1,9 +1,9 @@
 {
-  "version": "1.1.1",
-  "versionCode": 126,
-  "apkUrl": "https://github.com/Gazzamoo111/lounge-tv-releases/releases/download/v1.1.1/LoungeTV.apk",
-  "sha256": "2d35141f28e722aa9d61f4b89297266135d4b974d82be8a8139e92fc6666f5fa",
+  "version": "1.1.6",
+  "versionCode": 131,
+  "apkUrl": "https://github.com/Gazzamoo111/lounge-tv-releases/releases/download/v1.1.6/LoungeTV.apk",
+  "sha256": "2c92d3f6466f02bea563f4ec55ab3d5ed0ad5f8294647b7ab85b140d7587f6bb",
   "signingCertificateSha256": "bfebdfc29202a15dc1b07087221f16af69a2a1106827831716fce811c74d8d61",
   "mandatory": false,
-  "releaseNotes": "Lounge TV 1.1.1: restores the approved 1,074-channel BEST catalogue with provider-session validation and safe catalogue caching. Sports, Movies, Series, My Lounge, activation and playback are preserved."
+  "releaseNotes": "Lounge TV 1.1.6 adds six New Zealand channels with programme guide support, improves Live TV favourites and playback recovery, and corrects the Fire TV Settings layout. Existing authentication, customer data and update compatibility are preserved."
 }
