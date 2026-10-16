@@ -1,9 +1,9 @@
 {
-  "version": "1.1.6",
-  "versionCode": 131,
-  "apkUrl": "https://github.com/Gazzamoo111/lounge-tv-releases/releases/download/v1.1.6/LoungeTV.apk",
-  "sha256": "2c92d3f6466f02bea563f4ec55ab3d5ed0ad5f8294647b7ab85b140d7587f6bb",
+  "version": "1.1.7",
+  "versionCode": 132,
+  "apkUrl": "https://github.com/Gazzamoo111/lounge-tv-releases/releases/download/v1.1.7/LoungeTV.apk",
+  "sha256": "f61fb488fa26ce8c6cbb5f3fea91c8ee812ea31b1ddede083a50ea8a7426ba15",
   "signingCertificateSha256": "bfebdfc29202a15dc1b07087221f16af69a2a1106827831716fce811c74d8d61",
   "mandatory": false,
-  "releaseNotes": "Lounge TV 1.1.6 adds six New Zealand channels with programme guide support, improves Live TV favourites and playback recovery, and corrects the Fire TV Settings layout. Existing authentication, customer data and update compatibility are preserved."
+  "releaseNotes": "Lounge TV 1.1.7 improves Live TV playback stall detection and recovery, prioritises reliable Channel 9 feeds, and keeps programme descriptions stable while EPG data refreshes. Existing activation, customer data, navigation and on-demand playback remain compatible."
 }
